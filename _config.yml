@@ -1,11 +1,11 @@
 # Site
 title:              Sarah Qu
-bio:                '🐥'
+bio:                'Hi there, welcome :)'
 description:        ""
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/background_1.JPG'
+logo:               'assets/img/photo.jpg'
+background:         'assets/img/background_2.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://sarahqu.github.io
