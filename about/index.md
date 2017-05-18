@@ -1,37 +1,28 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about]
+date: 2017-05-17
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Hi, my name is Jiaqing (a.k.a Sarah) Qu. I was born in Beijing and spent my first 18 years of life in this beautiful city. 
 
-## Preview
+<figure>
+	<a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
+</figure>
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<figure>
+	<a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
+</figure>
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+In 2011, I went to Shanghai, where I got my bachelor degree in Software Engineering at Fudan University.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+In 2015, I went to Carnegie Mellon University to keep studying Computer Science. And I just received my master degree in May 2017, YEEAH!
+
+I will start my career (and new life) at A9.com as a software engineer. 
+
+In part time, I am a fashion enthusiast, which, in other word, a huge shopaholic, LOL. Some new hobbies I would like to develop this year are reading 📖 and exercising 🏃. 
+
+
