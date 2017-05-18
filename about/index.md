@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Sarah
+title: Little more about me
 tags: [about]
 date: 2017-05-17
 comments: false
