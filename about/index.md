@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Little more about me..
+title: About Me
 tags: [about]
 date: 2017-05-17
 comments: false
