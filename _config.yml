@@ -4,7 +4,7 @@ bio:                'Hi there, welcome :)'
 description:        ""
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/photo.jpg'
+logo:               'assets/img/photo.png'
 background:         'assets/img/background_2.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
