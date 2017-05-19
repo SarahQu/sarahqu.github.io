@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Why do I set up this blog"
+title:  "Why do I set up this blog?"
 date:   2017-05-18
-excerpt: "First post"
+excerpt: "My first post"
 tag:
 - random
 comments: true
